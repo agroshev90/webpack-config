@@ -1,0 +1,27 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agroshev90/webpack-project.git"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "Anton Groshev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agroshev90/webpack-project/issues"
+  },
+  "homepage": "https://github.com/agroshev90/webpack-project#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
